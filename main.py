@@ -13,7 +13,7 @@ not hold through a slide. It waits for a dip, buys the bounce, and gets out:
 
 * Entry: once every 4 bars, rank the symbols whose latest close sits more
   than 1.5% below their 12-bar exponential average (the dip), deepest dip
-  first, and buy up to 3 of them, at most 24% of equity each.
+  first, and buy up to 3 of them, at most 25% of equity each.
 * Exit: sell the whole position when the close climbs back above the
   12-bar average, when the close is 3% above the fill price, or when 24
   bars have passed since the fill, whichever comes first.
